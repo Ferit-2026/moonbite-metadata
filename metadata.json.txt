@@ -1,0 +1,6 @@
+{
+  "name": "MoonBite",
+  "symbol": "MBT",
+  "description": "MoonBite Token on Solana",
+  "image": "https://your-logo-url.png"
+}
