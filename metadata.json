@@ -1,6 +1,8 @@
 {
-  "name": "MoonBite",
-  "symbol": "MBT",
-  "description": "MoonBite is a Solana token",
-  "image": "https://raw.githubusercontent.com/Ferit-2026/moonbite-metadata/main/logo.png"
+  "name": "moonbite",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@solana/web3.js": "^1.0.0"
+  }
 }
