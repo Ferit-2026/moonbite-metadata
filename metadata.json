@@ -1,8 +1,16 @@
 {
-  "name": "moonbite",
-  "version": "1.0.0",
-  "type": "module",
-  "dependencies": {
-    "@solana/web3.js": "^1.0.0"
+  "name": "MoonBite",
+  "symbol": "MBT",
+  "description": "MoonBite Token",
+  "image": "https://static.vecteezy.com/system/resources/previews/005/543/050/non_2x/moon-bite-logo-design-icon-symbol-illustration-vector.jpg",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://static.vecteezy.com/system/resources/previews/005/543/050/non_2x/moon-bite-logo-design-icon-symbol-illustration-vector.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "category": "image"
   }
 }
